@@ -63,4 +63,3 @@ As a self-taught MERN stack developer, I have a relentless drive to continue lea
 
 <a href="http://www.github.com/SimcyV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimcyV&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SimcyV"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SimcyV&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
