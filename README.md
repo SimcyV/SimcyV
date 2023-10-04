@@ -3,6 +3,18 @@
 <h3 align="center">Full stack Developer</h3>
 
 
+Self-taught MERN stack developer
+--------------------------------
+
+As a self-taught MERN stack developer, I have a relentless drive to continue learning and improving my skills. With a passion for creating innovative solutions, I am constantly seeking out new challenges and opportunities to push the boundaries of what's possible. With a strong foundation in MongoDB, Express, React, and Node.js, I am confident in my ability to develop high-quality, scalable applications that deliver exceptional user experiences. As I continue to expand my knowledge and expertise, I am excited to take on new projects and collaborate with other talented developers to bring cutting-edge ideas to life.
+
+* 🌍  I'm based in Calicut, Kerala, India
+* 🖥️  See my portfolio at [My Portfolio](https://simcyv.github.io/SimcyV_portfolio/)
+* ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.vsimcy2828@gmail.com)
+* 🧠  I'm learning MERN Stack
+* 🤝  I'm open to collaborating on microservices projects using the MERN stack!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
