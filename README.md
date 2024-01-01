@@ -10,7 +10,7 @@ As a self-taught MERN stack developer, I have a relentless drive to continue lea
 
 * 🌍  I'm based in Calicut, Kerala, India
 * 🖥️  See my portfolio at [My Portfolio](https://simcyv.github.io/SimcyV_portfolio/)
-* ✉️  You can contact me at [dev.abdulvajidm@gmail.com](mailto:dev.vsimcy2828@gmail.com)
+* ✉️  You can contact me at [dev.vsimcy2828@gmail.com](mailto:dev.vsimcy2828@gmail.com)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on microservices projects using the MERN stack!
 
