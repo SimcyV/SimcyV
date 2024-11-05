@@ -7,7 +7,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 
-I'm a self-taught, passionate developer with a strong foundation in the MERN stack—MongoDB, Express, React, and Node.js—and experience with Angular. My journey in tech has been fueled by a relentless curiosity and a commitment to mastering my craft. Every day, I’m driven by the desire to learn, grow, and build applications that not only solve problems but create exceptional user experiences. With a knack for developing high-quality, scalable solutions, I'm constantly seeking opportunities to push the boundaries of what’s possible. Whether it’s a complex backend, an interactive frontend, or an entire full-stack application, I bring dedication, creativity, and technical expertise to every project. I’m excited to continue expanding my knowledge and tackling new challenges alongside talented developers. Let’s bring innovative ideas to life and shape the future of tech together!
+I'm a self-taught, passionate developer with a strong foundation in the MERN stack—MongoDB, Express, React, and Node.js—and experience with Angular. My journey in tech has been fueled by a relentless curiosity and a commitment to mastering my craft. Every day, I’m driven by the desire to learn, grow, and build applications that not only solve problems but create exceptional user experiences.<br> <br>
+
+With a knack for developing high-quality, scalable solutions, I'm constantly seeking opportunities to push the boundaries of what’s possible. Whether it’s a complex backend, an interactive frontend, or an entire full-stack application, I bring dedication, creativity, and technical expertise to every project.<br> <br>
+
+I’m excited to continue expanding my knowledge and tackling new challenges alongside talented developers. Let’s bring innovative ideas to life and shape the future of tech together!<br>
 
 * 🌍  I'm based in Calicut
 * ✉️  You can contact me at [vsimcy2828@gmail.com](mailto:vsimcy2828@gmail.com)
